@@ -16,7 +16,7 @@ Passionate about Programming & Algorithmic Trading Strategy Development
 
 ### Coursera / Microsoft *(In Progress)*
 * **Microsoft Python Development**
-  * **[Python Programming Fundamentals](https://www.coursera.org/learn/microsoft-python-programming-fundamentals)**
+  * **[Python Programming Fundamentals](https://www.coursera.org/learn/microsoft-python-programming-fundamentals)** (Completed)
   * **[Data Analysis and Visualization with Python](https://www.coursera.org/learn/microsoft-data-analysis-visualization-with-python?specialization=microsoft-python-developer)**
 
 ### freeCodeCamp *(In Progress)*
