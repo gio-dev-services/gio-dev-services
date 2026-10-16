@@ -14,9 +14,9 @@ Passionate about Programming & Algorithmic Trading Strategy Development
   4. **[Using Databases with Python](https://www.coursera.org/learn/python-databases)**
   5. **[Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization)**
 
-### Coursera / Microsoft *(In Progress)*
+### Coursera / Microsoft 
 * **Microsoft Python Development**
-  * **[Python Programming Fundamentals](https://www.coursera.org/learn/microsoft-python-programming-fundamentals)** (Completed)
+  * **[Python Programming Fundamentals](https://www.coursera.org/learn/microsoft-python-programming-fundamentals)** 
   * **[Data Analysis and Visualization with Python](https://www.coursera.org/learn/microsoft-data-analysis-visualization-with-python?specialization=microsoft-python-developer)**
 
 ### freeCodeCamp *(In Progress)*
