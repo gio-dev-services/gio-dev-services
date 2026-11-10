@@ -8,11 +8,6 @@ Passionate about Programming & Algorithmic Trading Strategy Development
 
 ### Coursera / University of Michigan
 * **[Python for Everybody Specialization](https://www.coursera.org/specializations/python)**
-  1. **[Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)**
-  2. **[Python Data Structures](https://www.coursera.org/learn/python-data)**
-  3. **[Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data)**
-  4. **[Using Databases with Python](https://www.coursera.org/learn/python-databases)**
-  5. **[Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization)**
 
 ### Coursera / Microsoft 
 * **Microsoft Python Development**
